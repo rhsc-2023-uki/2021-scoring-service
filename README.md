@@ -1,6 +1,6 @@
 # 2021-scoring-service
 
-Scoring Service, baked with Quarkus and Infinispan
+Scoring Service, baked with Quarkus and Infinispan.
 
 Run Infinispan with Docker
 
