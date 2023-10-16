@@ -120,3 +120,4 @@ Access
 
 `docker commit a358deaa1504 quay.io/redhatdemo/2021-scoring-service`
 `docker push quay.io/redhatdemo/2021-scoring-service`
+.
